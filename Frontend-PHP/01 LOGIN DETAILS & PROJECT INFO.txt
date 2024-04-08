@@ -1,0 +1,13 @@
+****** Warehouse Management Systen - PHP CodeIgniter *************
+****************************************
+**Recommended PHP Version 7**
+
+****************************************************************
+**Admin Login Details**
+
+Username: admin
+Password: Password@123
+****************************************************************
+
+
+
