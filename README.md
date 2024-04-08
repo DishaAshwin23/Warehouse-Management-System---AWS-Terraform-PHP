@@ -1,5 +1,6 @@
 # Warehouse-Management-System---AWS-Terraform-PHP
 Overview
+
 This Warehouse Management System (WMS) is designed to automate inventory management processes within a warehouse. It leverages AWS services for hosting and Terraform for infrastructure provisioning. The backend utilizes RDSQL for database management, while the frontend is developed using PHP.
 
 Features
